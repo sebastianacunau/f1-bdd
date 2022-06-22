@@ -5,12 +5,12 @@ driverId,number,code,forename,surname,dob,nationality,url
 4,14,ALO,Fernando,Alonso,29-07-1981,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso
 5,,KOV,Heikki,Kovalainen,19-10-1981,Finnish,http://en.wikipedia.org/wiki/Heikki_Kovalainen
 6,,NAK,Kazuki,Nakajima,11-01-1985,Japanese,http://en.wikipedia.org/wiki/Kazuki_Nakajima
-7,,BOU,S̩bastien,Bourdais,28-02-1979,French,http://en.wikipedia.org/wiki/S%C3%A9bastien_Bourdais
-8,7,RAI,Kimi,R�_ikk̦nen,17-10-1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen
+7,,BOU,Sébastien,Bourdais,28-02-1979,French,http://en.wikipedia.org/wiki/S%C3%A9bastien_Bourdais
+8,7,RAI,Kimi,Räikkönen,17-10-1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen
 9,,KUB,Robert,Kubica,07-12-1984,Polish,http://en.wikipedia.org/wiki/Robert_Kubica
 10,,GLO,Timo,Glock,18-03-1982,German,http://en.wikipedia.org/wiki/Timo_Glock
 11,,SAT,Takuma,Sato,28-01-1977,Japanese,http://en.wikipedia.org/wiki/Takuma_Sato
-12,,PIQ,Nelson,Piquet Jr.,25-07-1985,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet
+12,,PIQ,Nelson,Piquet Jr.,25-07-1985,Brazilian,https://en.wikipedia.org/wiki/Nelson_Piquet_Jr.
 13,19,MAS,Felipe,Massa,25-04-1981,Brazilian,http://en.wikipedia.org/wiki/Felipe_Massa
 14,,COU,David,Coulthard,27-03-1971,British,http://en.wikipedia.org/wiki/David_Coulthard
 15,,TRU,Jarno,Trulli,13-07-1974,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli
@@ -40,13 +40,13 @@ driverId,number,code,forename,surname,dob,nationality,url
 39,,KAR,Narain,Karthikeyan,14-01-1977,Indian,http://en.wikipedia.org/wiki/Narain_Karthikeyan
 40,,FRI,Patrick,Friesacher,26-09-1980,Austrian,http://en.wikipedia.org/wiki/Patrick_Friesacher
 41,,ZON,Ricardo,Zonta,23-03-1976,Brazilian,http://en.wikipedia.org/wiki/Ricardo_Zonta
-42,,PIZ,Ant̫nio,Pizzonia,11-09-1980,Brazilian,http://en.wikipedia.org/wiki/Ant%C3%B4nio_Pizzonia
+42,,PIZ,Antônio,Pizzonia,11-09-1980,Brazilian,http://en.wikipedia.org/wiki/Ant%C3%B4nio_Pizzonia
 43,,,Cristiano,da Matta,19-09-1973,Brazilian,http://en.wikipedia.org/wiki/Cristiano_da_Matta
 44,,,Olivier,Panis,02-09-1966,French,http://en.wikipedia.org/wiki/Olivier_Panis
 45,,,Giorgio,Pantano,04-02-1979,Italian,http://en.wikipedia.org/wiki/Giorgio_Pantano
 46,,,Gianmaria,Bruni,30-05-1981,Italian,http://en.wikipedia.org/wiki/Gianmaria_Bruni
 47,,,Zsolt,Baumgartner,01-01-1981,Hungarian,http://en.wikipedia.org/wiki/Zsolt_Baumgartner
-48,,,Marc,Gen̩,29-03-1974,Spanish,http://en.wikipedia.org/wiki/Marc_Gen%C3%A9
+48,,,Marc,Gené,29-03-1974,Spanish,http://en.wikipedia.org/wiki/Marc_Gen%C3%A9
 49,,,Heinz-Harald,Frentzen,18-05-1967,German,http://en.wikipedia.org/wiki/Heinz-Harald_Frentzen
 50,,,Jos,Verstappen,04-03-1972,Dutch,http://en.wikipedia.org/wiki/Jos_Verstappen
 51,,,Justin,Wilson,31-07-1978,British,http://en.wikipedia.org/wiki/Justin_Wilson_(racing_driver)
@@ -55,22 +55,22 @@ driverId,number,code,forename,surname,dob,nationality,url
 54,,,Luciano,Burti,05-03-1975,Brazilian,http://en.wikipedia.org/wiki/Luciano_Burti
 55,,,Jean,Alesi,11-06-1964,French,http://en.wikipedia.org/wiki/Jean_Alesi
 56,,,Eddie,Irvine,10-11-1965,British,http://en.wikipedia.org/wiki/Eddie_Irvine
-57,,,Mika,H�_kkinen,28-09-1968,Finnish,http://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen
+57,,,Mika,Häkkinen,28-09-1968,Finnish,http://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen
 58,,,Tarso,Marques,19-01-1976,Brazilian,http://en.wikipedia.org/wiki/Tarso_Marques
 59,,,Enrique,Bernoldi,19-10-1978,Brazilian,http://en.wikipedia.org/wiki/Enrique_Bernoldi
-60,,,Gast�_n,Mazzacane,08-05-1975,Argentine,http://en.wikipedia.org/wiki/Gast%C3%B3n_Mazzacane
-61,,,Tom����,Enge,11-09-1976,Czech,http://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Enge
+60,,,Gastón,Mazzacane,08-05-1975,Argentine,http://en.wikipedia.org/wiki/Gast%C3%B3n_Mazzacane
+61,,,Tomáš,Enge,11-09-1976,Czech,http://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Enge
 62,,,Alex,Yoong,20-07-1976,Malaysian,http://en.wikipedia.org/wiki/Alex_Yoong
 63,,,Mika,Salo,30-11-1966,Finnish,http://en.wikipedia.org/wiki/Mika_Salo
 64,,,Pedro,Diniz,22-05-1970,Brazilian,http://en.wikipedia.org/wiki/Pedro_Diniz
 65,,,Johnny,Herbert,25-06-1964,British,http://en.wikipedia.org/wiki/Johnny_Herbert
 66,,,Allan,McNish,29-12-1969,British,http://en.wikipedia.org/wiki/Allan_McNish
-67,,BUE,S̩bastien,Buemi,31-10-1988,Swiss,http://en.wikipedia.org/wiki/S%C3%A9bastien_Buemi
+67,,BUE,Sébastien,Buemi,31-10-1988,Swiss,http://en.wikipedia.org/wiki/S%C3%A9bastien_Buemi
 68,,,Toranosuke,Takagi,12-02-1974,Japanese,http://en.wikipedia.org/wiki/Toranosuke_Takagi
 69,,BAD,Luca,Badoer,25-01-1971,Italian,http://en.wikipedia.org/wiki/Luca_Badoer
 70,,,Alessandro,Zanardi,23-10-1966,Italian,http://en.wikipedia.org/wiki/Alex_Zanardi
 71,,,Damon,Hill,17-09-1960,British,http://en.wikipedia.org/wiki/Damon_Hill
-72,,,St̩phane,Sarrazin,02-11-1975,French,http://en.wikipedia.org/wiki/St%C3%A9phane_Sarrazin
+72,,,Stéphane,Sarrazin,02-11-1975,French,http://en.wikipedia.org/wiki/St%C3%A9phane_Sarrazin
 73,,,Ricardo,Rosset,27-07-1968,Brazilian,http://en.wikipedia.org/wiki/Ricardo_Rosset
 74,,,Esteban,Tuero,22-04-1978,Argentine,http://en.wikipedia.org/wiki/Esteban_Tuero
 75,,,Shinji,Nakano,01-04-1971,Japanese,http://en.wikipedia.org/wiki/Shinji_Nakano
@@ -96,18 +96,18 @@ driverId,number,code,forename,surname,dob,nationality,url
 95,,,Nigel,Mansell,08-08-1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell
 96,,,Jean-Christophe,Boullion,27-12-1969,French,http://en.wikipedia.org/wiki/Jean-Christophe_Boullion
 97,,,Massimiliano,Papis,03-10-1969,Italian,http://en.wikipedia.org/wiki/Massimiliano_Papis
-98,,,Jean-Denis,D̩l̩traz,01-10-1963,Swiss,http://en.wikipedia.org/wiki/Jean-Denis_Deletraz
+98,,,Jean-Denis,DÌ©lÌ©traz,01-10-1963,Swiss,http://en.wikipedia.org/wiki/Jean-Denis_Deletraz
 99,,,Gabriele,Tarquini,02-03-1962,Italian,http://en.wikipedia.org/wiki/Gabriele_Tarquini
-100,,,��rik,Comas,28-09-1963,French,http://en.wikipedia.org/wiki/%C3%89rik_Comas
+100,,,Érik,Comas,28-09-1963,French,http://en.wikipedia.org/wiki/%C3%89rik_Comas
 101,,,David,Brabham,05-09-1965,Australian,http://en.wikipedia.org/wiki/David_Brabham
 102,,,Ayrton,Senna,21-03-1960,Brazilian,http://en.wikipedia.org/wiki/Ayrton_Senna
-103,,,��ric,Bernard,24-08-1964,French,http://en.wikipedia.org/wiki/%C3%89ric_Bernard
+103,,,Ìäric,Bernard,24-08-1964,French,http://en.wikipedia.org/wiki/%C3%89ric_Bernard
 104,,,Christian,Fittipaldi,18-01-1971,Brazilian,http://en.wikipedia.org/wiki/Christian_Fittipaldi
 105,,,Michele,Alboreto,23-12-1956,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto
 106,,,Olivier,Beretta,23-11-1969,Monegasque,http://en.wikipedia.org/wiki/Olivier_Beretta
 107,,,Roland,Ratzenberger,04-07-1960,Austrian,http://en.wikipedia.org/wiki/Roland_Ratzenberger
 108,,,Paul,Belmondo,23-04-1963,French,http://en.wikipedia.org/wiki/Paul_Belmondo
-109,,,Jyrki,J�_rvilehto,31-01-1966,Finnish,http://en.wikipedia.org/wiki/Jyrki_J%C3%A4rvilehto
+109,,,Jyrki,Järvilehto,31-01-1966,Finnish,http://en.wikipedia.org/wiki/Jyrki_J%C3%A4rvilehto
 110,,,Andrea,de Cesaris,31-05-1959,Italian,http://en.wikipedia.org/wiki/Andrea_de_Cesaris
 111,,,Jean-Marc,Gounon,01-01-1963,French,http://en.wikipedia.org/wiki/Jean-Marc_Gounon
 112,,,Philippe,Alliot,27-07-1954,French,http://en.wikipedia.org/wiki/Philippe_Alliot
@@ -125,7 +125,7 @@ driverId,number,code,forename,surname,dob,nationality,url
 124,,,Marco,Apicella,07-10-1965,Italian,http://en.wikipedia.org/wiki/Marco_Apicella
 125,,,Emanuele,Naspetti,24-02-1968,Italian,http://en.wikipedia.org/wiki/Emanuele_Naspetti
 126,,,Toshio,Suzuki,10-03-1955,Japanese,http://en.wikipedia.org/wiki/Toshio_Suzuki_(driver)
-127,,,Maur�_cio,Gugelmin,20-04-1963,Brazilian,http://en.wikipedia.org/wiki/Maur%C3%ADcio_Gugelmin
+127,,,Maurício,Gugelmin,20-04-1963,Brazilian,http://en.wikipedia.org/wiki/Maur%C3%ADcio_Gugelmin
 128,,,Eric,van de Poele,30-09-1961,Belgian,http://en.wikipedia.org/wiki/Eric_van_de_Poele
 129,,,Olivier,Grouillard,02-09-1958,French,http://en.wikipedia.org/wiki/Olivier_Grouillard
 130,,,Andrea,Chiesa,06-05-1964,Swiss,http://en.wikipedia.org/wiki/Andrea_Chiesa
@@ -157,15 +157,15 @@ driverId,number,code,forename,surname,dob,nationality,url
 156,,,Jonathan,Palmer,07-11-1956,British,http://en.wikipedia.org/wiki/Jonathan_Palmer
 157,,,Christian,Danner,04-04-1958,German,http://en.wikipedia.org/wiki/Christian_Danner
 158,,,Eddie,Cheever,10-01-1958,American,http://en.wikipedia.org/wiki/Eddie_Cheever
-159,,,Luis,P̩rez-Sala,15-05-1959,Spanish,http://en.wikipedia.org/wiki/Luis_Perez-Sala
+159,,,Luis,PÌ©rez-Sala,15-05-1959,Spanish,http://en.wikipedia.org/wiki/Luis_Perez-Sala
 160,,,Piercarlo,Ghinzani,16-01-1952,Italian,http://en.wikipedia.org/wiki/Piercarlo_Ghinzani
 161,,,Volker,Weidler,18-03-1962,German,http://en.wikipedia.org/wiki/Volker_Weidler
 162,,,Pierre-Henri,Raphanel,27-05-1961,French,http://en.wikipedia.org/wiki/Pierre-Henri_Raphanel
-163,,,Ren̩,Arnoux,04-07-1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux
+163,,,RenÌ©,Arnoux,04-07-1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux
 164,,,Joachim,Winkelhock,24-10-1960,German,http://en.wikipedia.org/wiki/Joachim_Winkelhock
 165,,,Oscar,Larrauri,19-08-1954,Argentine,http://en.wikipedia.org/wiki/Oscar_Larrauri
 166,,,Philippe,Streiff,26-06-1955,French,http://en.wikipedia.org/wiki/Philippe_Streiff
-167,,,Adri��n,Campos,17-06-1960,Spanish,http://en.wikipedia.org/wiki/Adri%C3%A1n_Campos
+167,,,Adrián,Campos,17-06-1960,Spanish,http://en.wikipedia.org/wiki/Adri%C3%A1n_Campos
 168,,,Jean-Louis,Schlesser,12-09-1948,French,http://en.wikipedia.org/wiki/Jean-Louis_Schlesser
 169,,,Pascal,Fabre,09-01-1960,French,http://en.wikipedia.org/wiki/Pascal_Fabre
 170,,,Teo,Fabi,09-03-1955,Italian,http://en.wikipedia.org/wiki/Teo_Fabi
@@ -181,7 +181,7 @@ driverId,number,code,forename,surname,dob,nationality,url
 180,,,Allen,Berg,01-08-1961,Canadian,http://en.wikipedia.org/wiki/Allen_Berg
 181,,,Manfred,Winkelhock,06-10-1951,German,http://en.wikipedia.org/wiki/Manfred_Winkelhock
 182,,,Niki,Lauda,22-02-1949,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda
-183,,,Fran̤ois,Hesnault,30-12-1956,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Hesnault
+183,,,François,Hesnault,30-12-1956,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Hesnault
 184,,,Mauro,Baldi,31-01-1954,Italian,http://en.wikipedia.org/wiki/Mauro_Baldi
 185,,,Stefan,Bellof,20-11-1957,German,http://en.wikipedia.org/wiki/Stefan_Bellof
 186,,,Kenny,Acheson,27-11-1957,British,http://en.wikipedia.org/wiki/Kenny_Acheson
@@ -213,10 +213,10 @@ driverId,number,code,forename,surname,dob,nationality,url
 212,,,Hector,Rebaque,05-02-1956,Mexican,http://en.wikipedia.org/wiki/Hector_Rebaque
 213,,,Beppe,Gabbiani,02-01-1957,Italian,http://en.wikipedia.org/wiki/Beppe_Gabbiani
 214,,,Kevin,Cogan,31-03-1956,American,http://en.wikipedia.org/wiki/Kevin_Cogan
-215,,,Miguel ́ngel,Guerra,31-08-1953,Argentine,http://en.wikipedia.org/wiki/Miguel_Angel_Guerra
+215,,,Miguel Ìngel,Guerra,31-08-1953,Argentine,http://en.wikipedia.org/wiki/Miguel_Angel_Guerra
 216,,,Siegfried,Stohr,10-10-1952,Italian,http://en.wikipedia.org/wiki/Siegfried_Stohr
 217,,,Ricardo,Zunino,13-04-1949,Argentine,http://en.wikipedia.org/wiki/Ricardo_Zunino
-218,,,Ricardo,Londo̱o,08-08-1949,Colombian,http://en.wikipedia.org/wiki/Ricardo_Londo%C3%B1o
+218,,,Ricardo,Londoño,08-08-1949,Colombian,http://en.wikipedia.org/wiki/Ricardo_Londo%C3%B1o
 219,,,Jean-Pierre,Jabouille,01-10-1942,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jabouille
 220,,,Giorgio,Francia,08-11-1947,Italian,http://en.wikipedia.org/wiki/Giorgio_Francia
 221,,,Patrick,Depailler,09-08-1944,French,http://en.wikipedia.org/wiki/Patrick_Depailler
@@ -226,7 +226,7 @@ driverId,number,code,forename,surname,dob,nationality,url
 225,,,Dave,Kennedy,15-01-1953,Irish,http://en.wikipedia.org/wiki/David_Kennedy_(racing_driver)
 226,,,Stephen,South,19-02-1952,British,http://en.wikipedia.org/wiki/Stephen_South
 227,,,Tiff,Needell,29-10-1951,British,http://en.wikipedia.org/wiki/Tiff_Needell
-228,,,Desir̩,Wilson,26-11-1953,South African,http://en.wikipedia.org/wiki/Desir%C3%A9_Wilson
+228,,,Desiré,Wilson,26-11-1953,South African,http://en.wikipedia.org/wiki/Desir%C3%A9_Wilson
 229,,,Harald,Ertl,31-08-1948,Austrian,http://en.wikipedia.org/wiki/Harald_Ertl
 230,,,Vittorio,Brambilla,11-11-1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla
 231,,,James,Hunt,29-08-1947,British,http://en.wikipedia.org/wiki/James_Hunt
@@ -256,7 +256,7 @@ driverId,number,code,forename,surname,dob,nationality,url
 255,,,Gunnar,Nilsson,20-11-1948,Swedish,http://en.wikipedia.org/wiki/Gunnar_Nilsson
 256,,,Larry,Perkins,18-03-1950,Australian,http://en.wikipedia.org/wiki/Larry_Perkins
 257,,,Boy,Lunger,03-05-1949,Dutch,http://en.wikipedia.org/wiki/Boy_Hayje
-258,,,Patrick,N̬ve,13-10-1949,Belgian,http://en.wikipedia.org/wiki/Patrick_Neve
+258,,,Patrick,NÌ¬ve,13-10-1949,Belgian,http://en.wikipedia.org/wiki/Patrick_Neve
 259,,,David,Purley,26-01-1945,British,http://en.wikipedia.org/wiki/David_Purley
 260,,,Conny,Andersson,28-12-1939,Swedish,http://en.wikipedia.org/wiki/Conny_Andersson_(racing_driver)
 261,,,Bernard,de Dryver,19-09-1952,Belgian,http://en.wikipedia.org/wiki/Bernard_de_Dryver
@@ -275,7 +275,7 @@ driverId,number,code,forename,surname,dob,nationality,url
 274,,,Noritake,Takahara,06-06-1951,Japanese,http://en.wikipedia.org/wiki/Noritake_Takahara
 275,,,Lella,Lombardi,26-03-1941,Italian,http://en.wikipedia.org/wiki/Lella_Lombardi
 276,,,Bob,Evans,11-06-1947,British,http://en.wikipedia.org/wiki/Bob_Evans_(race_driver)
-277,,,Michel,Lecl̬re,18-03-1946,French,http://en.wikipedia.org/wiki/Michel_Lecl%C3%A8re
+277,,,Michel,Leclère,18-03-1946,French,http://en.wikipedia.org/wiki/Michel_Lecl%C3%A8re
 278,,,Chris,Amon,20-07-1943,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon
 279,,,Emilio,Zapico,27-05-1944,Spanish,http://en.wikipedia.org/wiki/Emilio_Zapico
 280,,,Henri,Pescarolo,25-09-1942,French,http://en.wikipedia.org/wiki/Henri_Pescarolo
@@ -294,7 +294,7 @@ driverId,number,code,forename,surname,dob,nationality,url
 293,,,Dave,Charlton,27-10-1936,South African,http://en.wikipedia.org/wiki/Dave_Charlton
 294,,,Tony,Brise,28-03-1952,British,http://en.wikipedia.org/wiki/Tony_Brise
 295,,,Roelof,Wunderink,12-12-1948,Dutch,http://en.wikipedia.org/wiki/Roelof_Wunderink
-296,,,Fran̤ois,Migault,04-12-1944,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Migault
+296,,,François,Migault,04-12-1944,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Migault
 297,,,Torsten,Palm,23-07-1947,Swedish,http://en.wikipedia.org/wiki/Torsten_Palm
 298,,,Gijs,van Lennep,16-03-1942,Dutch,http://en.wikipedia.org/wiki/Gijs_Van_Lennep
 299,,,Hiroshi,Fushida,10-03-1946,Japanese,http://en.wikipedia.org/wiki/Hiroshi_Fushida
@@ -309,15 +309,15 @@ driverId,number,code,forename,surname,dob,nationality,url
 308,,,Richard,Robarts,22-09-1944,British,http://en.wikipedia.org/wiki/Richard_Robarts
 309,,,Peter,Revson,27-02-1939,American,http://en.wikipedia.org/wiki/Peter_Revson
 310,,,Paddy,Driver,13-05-1934,South African,http://en.wikipedia.org/wiki/Paddy_Driver
-311,,,Tom,Bels��,27-08-1942,Danish,http://en.wikipedia.org/wiki/Tom_Bels%C3%B8
+311,,,Tom,Belsø,27-08-1942,Danish,http://en.wikipedia.org/wiki/Tom_Bels%C3%B8
 312,,,Brian,Redman,09-03-1937,British,http://en.wikipedia.org/wiki/Brian_Redman
 313,,,Rikky,von Opel,14-10-1947,Liechtensteiner,http://en.wikipedia.org/wiki/Rikky_von_Opel
 314,,,Tim,Schenken,26-09-1943,Australian,http://en.wikipedia.org/wiki/Tim_Schenken
-315,,,G̩rard,Larrousse,23-05-1940,French,http://en.wikipedia.org/wiki/G%C3%A9rard_Larrousse
+315,,,Gérard,Larrousse,23-05-1940,French,http://en.wikipedia.org/wiki/G%C3%A9rard_Larrousse
 316,,,Leo,Kinnunen,05-08-1943,Finnish,http://en.wikipedia.org/wiki/Leo_Kinnunen
 317,,,Reine,Wisell,30-09-1941,Swedish,http://en.wikipedia.org/wiki/Reine_Wisell
 318,,,Bertil,Roos,12-10-1943,Swedish,http://en.wikipedia.org/wiki/Bertil_Roos
-319,,,Jos̩,Dolhem,26-04-1944,French,http://en.wikipedia.org/wiki/Jos%C3%A9_Dolhem
+319,,,José,Dolhem,26-04-1944,French,http://en.wikipedia.org/wiki/Jos%C3%A9_Dolhem
 320,,,Peter,Gethin,21-02-1940,British,http://en.wikipedia.org/wiki/Peter_Gethin
 321,,,Derek,Bell,31-10-1941,British,http://en.wikipedia.org/wiki/Derek_Bell_(auto_racer)
 322,,,David,Hobbs,09-06-1939,British,http://en.wikipedia.org/wiki/David_Hobbs_(racing_driver)
@@ -325,7 +325,7 @@ driverId,number,code,forename,surname,dob,nationality,url
 324,,,Helmuth,Koinigg,03-11-1948,Austrian,http://en.wikipedia.org/wiki/Helmuth_Koinigg
 325,,,Carlo,Facetti,26-06-1935,Italian,http://en.wikipedia.org/wiki/Carlo_Facetti
 326,,,Eppie,Wietzes,28-05-1938,Canadian,http://en.wikipedia.org/wiki/Eppie_Wietzes
-327,,,Fran̤ois,Cevert,25-02-1944,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert
+327,,,François,Cevert,25-02-1944,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert
 328,,,Jackie,Stewart,11-06-1939,British,http://en.wikipedia.org/wiki/Jackie_Stewart
 329,,,Mike,Beuttler,13-04-1940,British,http://en.wikipedia.org/wiki/Mike_Beuttler
 330,,,Nanni,Galli,02-10-1940,Italian,http://en.wikipedia.org/wiki/Nanni_Galli
@@ -343,10 +343,10 @@ driverId,number,code,forename,surname,dob,nationality,url
 342,,,Skip,Barber,16-11-1936,American,http://en.wikipedia.org/wiki/Skip_Barber
 343,,,Bill,Brack,26-12-1935,Canadian,http://en.wikipedia.org/wiki/Bill_Brack
 344,,,Sam,Posey,26-05-1944,American,http://en.wikipedia.org/wiki/Sam_Posey
-345,,,Pedro,Rodr�_guez,18-01-1940,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
+345,,,Pedro,Rodríguez,18-01-1940,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)
 346,,,Jo,Siffert,07-07-1936,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert
 347,,,Jo,Bonnier,31-01-1930,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier
-348,,,Fran̤ois,Mazet,24-02-1943,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Mazet
+348,,,François,Mazet,24-02-1943,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Mazet
 349,,,Max,Jean,27-07-1943,French,http://en.wikipedia.org/wiki/Max_Jean
 350,,,Vic,Elford,10-06-1935,British,http://en.wikipedia.org/wiki/Vic_Elford
 351,,,Silvio,Moser,24-04-1941,Swiss,http://en.wikipedia.org/wiki/Silvio_Moser
@@ -380,7 +380,7 @@ driverId,number,code,forename,surname,dob,nationality,url
 379,,,Kurt,Ahrens,19-04-1940,German,http://en.wikipedia.org/wiki/Kurt_Ahrens
 380,,,Frank,Gardner,01-10-1930,Australian,http://en.wikipedia.org/wiki/Frank_Gardner_(driver)
 381,,,Bobby,Unser,20-02-1934,American,http://en.wikipedia.org/wiki/Bobby_Unser
-382,,,Mois̩s,Solana,26-12-1935,Mexican,http://en.wikipedia.org/wiki/Mois%C3%A9s_Solana
+382,,,Moisés,Solana,26-12-1935,Mexican,http://en.wikipedia.org/wiki/Mois%C3%A9s_Solana
 383,,,Bob,Anderson,19-05-1931,British,http://en.wikipedia.org/wiki/Bob_Anderson_(racing_driver)
 384,,,Luki,Botha,16-01-1930,South African,http://en.wikipedia.org/wiki/Luki_Botha
 385,,,Lorenzo,Bandini,21-12-1935,Italian,http://en.wikipedia.org/wiki/Lorenzo_Bandini
@@ -427,23 +427,23 @@ driverId,number,code,forename,surname,dob,nationality,url
 426,,,Giorgio,Bassi,20-01-1934,Italian,http://en.wikipedia.org/wiki/Giorgio_Bassi
 427,,,Maurice,Trintignant,30-10-2017,French,http://en.wikipedia.org/wiki/Maurice_Trintignant
 428,,,Bernard,Collomb,07-10-1930,French,http://en.wikipedia.org/wiki/Bernard_Collomb
-429,,,Andr̩,Pilette,06-10-2018,Belgian,http://en.wikipedia.org/wiki/Andr%C3%A9_Pilette
+429,,,André,Pilette,06-10-2018,Belgian,http://en.wikipedia.org/wiki/Andr%C3%A9_Pilette
 430,,,Carel Godin,de Beaufort,10-04-1934,Dutch,http://en.wikipedia.org/wiki/Carel_Godin_de_Beaufort
 431,,,Edgar,Barth,26-01-2017,German,http://en.wikipedia.org/wiki/Edgar_Barth
-432,,,M��rio de Ara̼jo,Cabral,15-01-1934,Portuguese,http://en.wikipedia.org/wiki/Mario_de_Araujo_Cabral
+432,,,Mário de Araújo,Cabral,15-01-1934,Portuguese,http://en.wikipedia.org/wiki/Mario_de_Araujo_Cabral
 433,,,Walt,Hansgen,28-10-2019,American,http://en.wikipedia.org/wiki/Walt_Hansgen
 434,,,Hap,Sharp,01-01-2028,American,http://en.wikipedia.org/wiki/Hap_Sharp
 435,,,Willy,Mairesse,01-10-2028,Belgian,http://en.wikipedia.org/wiki/Willy_Mairesse
 436,,,John,Campbell-Jones,21-01-1930,British,http://en.wikipedia.org/wiki/John_Campbell-Jones
 437,,,Ian,Burgess,06-07-1930,British,http://en.wikipedia.org/wiki/Ian_Burgess
 438,,,Tony,Settember,10-07-2026,American,http://en.wikipedia.org/wiki/Tony_Settember
-439,,,Nasif,Est̩fano,18-11-1932,Argentine,http://en.wikipedia.org/wiki/Nasif_Est%C3%A9fano
+439,,,Nasif,Estéfano,18-11-1932,Argentine,http://en.wikipedia.org/wiki/Nasif_Est%C3%A9fano
 440,,,Jim,Hall,23-07-1935,American,http://en.wikipedia.org/wiki/Jim_Hall_(race_car_driver)
 441,,,Tim,Parnell,25-06-1932,British,http://en.wikipedia.org/wiki/Tim_Parnell
 442,,,Kurt,Kuhnke,30-04-2010,German,http://en.wikipedia.org/wiki/Kurt_Kuhnke
 443,,,Ernesto,Brambilla,31-01-1934,Italian,http://en.wikipedia.org/wiki/Ernesto_Brambilla
 444,,,Roberto,Lippi,17-10-2026,Italian,http://en.wikipedia.org/wiki/Roberto_Lippi
-445,,,G�_nther,Seiffert,18-10-1937,German,http://en.wikipedia.org/wiki/G%C3%BCnther_Seiffert
+445,,,Günther,Seiffert,18-10-1937,German,http://en.wikipedia.org/wiki/G%C3%BCnther_Seiffert
 446,,,Carlo,Abate,10-07-1932,Italian,http://en.wikipedia.org/wiki/Carlo_Mario_Abate
 447,,,Gaetano,Starrabba,03-12-1932,Italian,http://en.wikipedia.org/wiki/Gaetano_Starrabba
 448,,,Peter,Broeker,15-05-2026,Canadian,http://en.wikipedia.org/wiki/Peter_Broeker
@@ -453,7 +453,7 @@ driverId,number,code,forename,surname,dob,nationality,url
 452,,,Thomas,Monarch,03-09-1945,American,
 842,10,GAS,Pierre,Gasly,07-02-1996,French,http://en.wikipedia.org/wiki/Pierre_Gasly
 453,,,Jackie,Lewis,01-11-1936,British,http://en.wikipedia.org/wiki/Jackie_Lewis
-454,,,Ricardo,Rodr�_guez,14-02-1942,Mexican,http://en.wikipedia.org/wiki/Ricardo_Rodr%C3%ADguez_(Formula_One)
+454,,,Ricardo,Rodríguez,14-02-1942,Mexican,http://en.wikipedia.org/wiki/Ricardo_Rodr%C3%ADguez_(Formula_One)
 455,,,Wolfgang,Seidel,04-07-2026,German,http://en.wikipedia.org/wiki/Wolfgang_Seidel
 456,,,Roy,Salvadori,12-05-2022,British,http://en.wikipedia.org/wiki/Roy_Salvadori
 457,,,Ben,Pon,09-12-1936,Dutch,http://en.wikipedia.org/wiki/Ben_Pon
@@ -497,7 +497,7 @@ driverId,number,code,forename,surname,dob,nationality,url
 495,,,Ken,Miles,01-11-2018,British,http://en.wikipedia.org/wiki/Ken_Miles
 496,,,Carlos,Menditeguy,10-08-2014,Argentine,http://en.wikipedia.org/wiki/Carlos_Menditeguy
 497,,,Alberto Rodriguez,Larreta,14-01-1934,Argentine,http://en.wikipedia.org/wiki/Alberto_Rodriguez_Larreta
-498,,,Jos̩ Froil��n,Gonz��lez,05-10-2022,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez
+498,,,José Froilán,González,05-10-2022,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez
 499,,,Roberto,Bonomi,30-09-2019,Argentine,http://en.wikipedia.org/wiki/Roberto_Bonomi
 500,,,Gino,Munaron,02-04-2028,Italian,http://en.wikipedia.org/wiki/Gino_Munaron
 501,,,Harry,Schell,29-06-2021,American,http://en.wikipedia.org/wiki/Harry_Schell
@@ -552,7 +552,7 @@ driverId,number,code,forename,surname,dob,nationality,url
 550,,,Alain,de Changy,05-02-2022,Belgian,http://en.wikipedia.org/wiki/Alain_de_Changy
 551,,,Maria,de Filippis,11-11-2026,Italian,http://en.wikipedia.org/wiki/Maria_Teresa_de_Filippis
 552,,,Jean,Lucienbonnet,07-01-2023,French,http://en.wikipedia.org/wiki/Jean_Lucienbonnet
-553,,,Andr̩,Testut,13-04-2026,Monegasque,http://en.wikipedia.org/wiki/Andr%C3%A9_Testut
+553,,,André,Testut,13-04-2026,Monegasque,http://en.wikipedia.org/wiki/Andr%C3%A9_Testut
 554,,,Jean,Behra,16-02-2021,French,http://en.wikipedia.org/wiki/Jean_Behra
 555,,,Paul,Russo,10-04-2014,American,http://en.wikipedia.org/wiki/Paul_Russo
 556,,,Jimmy,Daywalt,28-08-2024,American,http://en.wikipedia.org/wiki/Jimmy_Daywalt
@@ -602,13 +602,13 @@ driverId,number,code,forename,surname,dob,nationality,url
 600,,,Christian,Goethals,04-08-2028,Belgian,http://en.wikipedia.org/wiki/Christian_Goethals
 601,,,Dick,Gibson,16-04-2018,British,http://en.wikipedia.org/wiki/Dick_Gibson
 602,,,Robert,La Caze,26-02-2017,French,http://en.wikipedia.org/wiki/Robert_La_Caze
-603,,,Andr̩,Guelfi,06-05-2019,French,http://en.wikipedia.org/wiki/Andr%C3%A9_Guelfi
-604,,,Fran̤ois,Picard,26-04-2021,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Picard
+603,,,AndrÌ©,Guelfi,06-05-2019,French,http://en.wikipedia.org/wiki/Andr%C3%A9_Guelfi
+604,,,François,Picard,26-04-2021,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Picard
 605,,,Tom,Bridger,24-06-1934,British,http://en.wikipedia.org/wiki/Tom_Bridger
 606,,,Alfonso,de Portago,11-10-2028,Spanish,http://en.wikipedia.org/wiki/Alfonso_de_Portago
 607,,,Cesare,Perdisa,21-10-1932,Italian,http://en.wikipedia.org/wiki/Cesare_Perdisa
 608,,,Eugenio,Castellotti,10-10-1930,Italian,http://en.wikipedia.org/wiki/Eugenio_Castellotti
-609,,,Andr̩,Simon,05-01-2020,French,http://en.wikipedia.org/wiki/Andr%C3%A9_Simon_(racing_driver)
+609,,,André,Simon,05-01-2020,French,http://en.wikipedia.org/wiki/Andr%C3%A9_Simon_(racing_driver)
 610,,,Les,Leston,16-12-2020,British,http://en.wikipedia.org/wiki/Les_Leston
 611,,,Sam,Hanks,13-07-2014,American,http://en.wikipedia.org/wiki/Sam_Hanks
 612,,,Andy,Linden,05-04-2022,American,http://en.wikipedia.org/wiki/Andy_Linden_(racing_driver)
@@ -624,28 +624,28 @@ driverId,number,code,forename,surname,dob,nationality,url
 622,,,Chico,Landi,14-07-2007,Brazilian,http://en.wikipedia.org/wiki/Chico_Landi
 623,,,Alberto,Uria,11-07-2024,Uruguayan,http://en.wikipedia.org/wiki/Alberto_Uria
 624,,,Hernando,da Silva Ramos,07-12-2025,Brazilian,http://en.wikipedia.org/wiki/Hernando_da_Silva_Ramos
-625,,,��lie,Bayol,28-02-2014,French,http://en.wikipedia.org/wiki/%C3%89lie_Bayol
+625,,,Ìälie,Bayol,28-02-2014,French,http://en.wikipedia.org/wiki/%C3%89lie_Bayol
 626,,,Robert,Manzon,12-04-2017,French,http://en.wikipedia.org/wiki/Robert_Manzon
 627,,,Louis,Rosier,05-11-2005,French,http://en.wikipedia.org/wiki/Louis_Rosier
 628,,,Bob,Sweikert,20-05-2026,American,http://en.wikipedia.org/wiki/Bob_Sweikert
 629,,,Cliff,Griffith,06-02-2016,American,http://en.wikipedia.org/wiki/Cliff_Griffith
 630,,,Duke,Dinsmore,10-04-2013,American,http://en.wikipedia.org/wiki/Duke_Dinsmore
 631,,,Keith,Andrews,15-06-2020,American,http://en.wikipedia.org/wiki/Keith_Andrews_(driver)
-632,,,Paul,Fr̬re,30-01-2017,Belgian,http://en.wikipedia.org/wiki/Paul_Fr%C3%A8re
+632,,,Paul,Frère,30-01-2017,Belgian,http://en.wikipedia.org/wiki/Paul_Fr%C3%A8re
 633,,,Luigi,Villoresi,16-05-2009,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi
 634,,,Piero,Scotti,11-11-2009,Italian,http://en.wikipedia.org/wiki/Piero_Scotti
 635,,,Colin,Chapman,19-05-2028,British,http://en.wikipedia.org/wiki/Colin_Chapman
 636,,,Desmond,Titterington,01-05-2028,British,http://en.wikipedia.org/wiki/Desmond_Titterington
 637,,,Archie,Scott Brown,13-05-2027,British,http://en.wikipedia.org/wiki/Archie_Scott_Brown
 638,,,Ottorino,Volonterio,07-12-2017,Swiss,http://en.wikipedia.org/wiki/Ottorino_Volonterio
-639,,,Andr̩,Milhoux,09-12-2028,Belgian,http://en.wikipedia.org/wiki/Andr%C3%A9_Milhoux
+639,,,André,Milhoux,09-12-2028,Belgian,http://en.wikipedia.org/wiki/Andr%C3%A9_Milhoux
 640,,,Toulo,de Graffenried,18-05-2014,Swiss,http://en.wikipedia.org/wiki/Toulo_de_Graffenried
 641,,,Piero,Taruffi,12-10-2006,Italian,http://en.wikipedia.org/wiki/Piero_Taruffi
 642,,,Nino,Farina,30-10-2006,Italian,http://en.wikipedia.org/wiki/Nino_Farina
 643,,,Roberto,Mieres,03-12-2024,Argentine,http://en.wikipedia.org/wiki/Roberto_Mieres
 644,,,Sergio,Mantovani,22-05-2029,Italian,http://en.wikipedia.org/wiki/Sergio_Mantovani
 645,,,Clemar,Bucci,04-09-2020,Argentine,http://en.wikipedia.org/wiki/Clemar_Bucci
-646,,,Jes̼s,Iglesias,22-02-2022,Argentine,http://en.wikipedia.org/wiki/Jes%C3%BAs_Iglesias
+646,,,Jesús,Iglesias,22-02-2022,Argentine,http://en.wikipedia.org/wiki/Jes%C3%BAs_Iglesias
 647,,,Alberto,Ascari,13-07-2018,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari
 648,,,Karl,Kling,16-09-2010,German,http://en.wikipedia.org/wiki/Karl_Kling
 649,,,Pablo,Birger,07-01-2024,Argentine,http://en.wikipedia.org/wiki/Pablo_Birger
@@ -669,7 +669,7 @@ driverId,number,code,forename,surname,dob,nationality,url
 667,,,John,Fitch,04-08-2017,American,http://en.wikipedia.org/wiki/John_Fitch_(driver)
 668,,,Jean,Lucas,25-04-2017,French,http://en.wikipedia.org/wiki/Jean_Lucas
 669,,,Prince,Bira,15-07-2014,Thai,http://en.wikipedia.org/wiki/Prince_Bira
-670,,,Onofre,Marim�_n,19-12-2023,Argentine,http://en.wikipedia.org/wiki/Onofre_Marim%C3%B3n
+670,,,Onofre,Marimón,19-12-2023,Argentine,http://en.wikipedia.org/wiki/Onofre_Marim%C3%B3n
 671,,,Roger,Loyer,05-08-2007,French,http://en.wikipedia.org/wiki/Roger_Loyer
 672,,,Jorge,Daponte,05-06-2023,Argentine,http://en.wikipedia.org/wiki/Jorge_Daponte
 673,,,Mike,Nazaruk,02-10-2021,American,http://en.wikipedia.org/wiki/Mike_Nazaruk
@@ -694,7 +694,7 @@ driverId,number,code,forename,surname,dob,nationality,url
 692,,,Theo,Helfrich,13-05-2013,German,http://en.wikipedia.org/wiki/Theo_Helfrich
 693,,,Fred,Wacker,10-07-2018,American,http://en.wikipedia.org/wiki/Fred_Wacker
 694,,,Giovanni,de Riu,10-03-2025,Italian,http://en.wikipedia.org/wiki/Giovanni_de_Riu
-695,,,Oscar,G��lvez,17-08-2013,Argentine,http://en.wikipedia.org/wiki/%C3%93scar_Alfredo_G%C3%A1lvez
+695,,,Óscar,Gálvez,17-08-2013,Argentine,http://en.wikipedia.org/wiki/%C3%93scar_Alfredo_G%C3%A1lvez
 696,,,John,Barber,22-07-2029,British,http://en.wikipedia.org/wiki/John_Barber_(racing_driver)
 697,,,Felice,Bonetto,09-06-2003,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto
 698,,,Adolfo,Cruz,28-06-2023,Argentine,http://en.wikipedia.org/wiki/Adolfo_Schewelm_Cruz
@@ -714,7 +714,7 @@ driverId,number,code,forename,surname,dob,nationality,url
 712,,,Willi,Heeks,13-02-2022,German,http://en.wikipedia.org/wiki/Willi_Heeks
 713,,,Theo,Fitzau,10-02-2023,East German,http://en.wikipedia.org/wiki/Theo_Fitzau
 714,,,Kurt,Adolff,05-11-2021,German,http://en.wikipedia.org/wiki/Kurt_Adolff
-715,,,G�_nther,Bechem,21-12-2021,German,http://en.wikipedia.org/wiki/G%C3%BCnther_Bechem
+715,,,Günther,Bechem,21-12-2021,German,http://en.wikipedia.org/wiki/G%C3%BCnther_Bechem
 716,,,Erwin,Bauer,17-07-2012,German,http://en.wikipedia.org/wiki/Erwin_Bauer
 717,,,Hans,von Stuck,27-12-2000,German,http://en.wikipedia.org/wiki/Hans_Von_Stuck
 718,,,Ernst,Loof,04-07-2007,German,http://en.wikipedia.org/wiki/Ernst_Loof
@@ -740,7 +740,7 @@ driverId,number,code,forename,surname,dob,nationality,url
 738,,,Tony,Gaze,03-02-2020,Australian,http://en.wikipedia.org/wiki/Tony_Gaze
 739,,,Robin,Montgomerie-Charrington,23-06-2015,British,http://en.wikipedia.org/wiki/Robin_Montgomerie-Charrington
 740,,,Franco,Comotti,24-07-2006,Italian,http://en.wikipedia.org/wiki/Franco_Comotti
-741,,,Philippe,��tancelin,1896-12-28,French,http://en.wikipedia.org/wiki/Philippe_%C3%89tancelin
+741,,,Philippe,Étancelin,28-12-1896,French,http://en.wikipedia.org/wiki/Philippe_%C3%89tancelin
 742,,,Dennis,Poore,19-08-2016,British,http://en.wikipedia.org/wiki/Dennis_Poore
 743,,,Eric,Thompson,04-11-2019,British,http://en.wikipedia.org/wiki/Eric_Thompson_(racing_driver)
 744,,,Ken,Downing,05-12-2017,British,http://en.wikipedia.org/wiki/Ken_Downing
@@ -773,7 +773,7 @@ driverId,number,code,forename,surname,dob,nationality,url
 771,,,Walt,Brown,30-12-2011,American,http://en.wikipedia.org/wiki/Walt_Brown_(auto_racer)
 772,,,Mack,Hellings,14-09-2015,American,http://en.wikipedia.org/wiki/Mack_Hellings
 773,,,Pierre,Levegh,22-12-2005,French,http://en.wikipedia.org/wiki/Pierre_Levegh
-774,,,Eug̬ne,Chaboud,12-04-2007,French,http://en.wikipedia.org/wiki/Eug%C3%A8ne_Chaboud
+774,,,Eugène,Chaboud,12-04-2007,French,http://en.wikipedia.org/wiki/Eug%C3%A8ne_Chaboud
 775,,,Aldo,Gordini,20-05-2021,French,http://en.wikipedia.org/wiki/Aldo_Gordini
 776,,,Joe,Kelly,13-03-2013,Irish,http://en.wikipedia.org/wiki/Joe_Kelly_(Formula_One)
 777,,,Philip,Fotheringham-Parker,22-09-2007,British,http://en.wikipedia.org/wiki/Philip_Fotheringham-Parker
@@ -788,10 +788,10 @@ driverId,number,code,forename,surname,dob,nationality,url
 786,,,Luigi,Fagioli,1898-06-09,Italian,http://en.wikipedia.org/wiki/Luigi_Fagioli
 787,,,Cuth,Harrison,06-07-2006,British,http://en.wikipedia.org/wiki/Cuth_Harrison
 788,,,Joe,Fry,26-10-2015,British,http://en.wikipedia.org/wiki/Joe_Fry
-789,,,Eug̬ne,Martin,24-03-2015,French,http://en.wikipedia.org/wiki/Eug%C3%A8ne_Martin
+789,,,Eugène,Martin,24-03-2015,French,http://en.wikipedia.org/wiki/Eug%C3%A8ne_Martin
 790,,,Leslie,Johnson,22-03-2012,British,http://en.wikipedia.org/wiki/Leslie_Johnson_(racing_driver)
 791,,,Clemente,Biondetti,1898-08-18,Italian,http://en.wikipedia.org/wiki/Clemente_Biondetti
-792,,,Alfredo,Pi��n,21-10-2012,Argentine,http://en.wikipedia.org/wiki/Alfredo_Pi%C3%A0n
+792,,,Alfredo,Pián,21-10-2012,Argentine,http://en.wikipedia.org/wiki/Alfredo_Pi%C3%A0n
 793,,,Raymond,Sommer,31-08-2006,French,http://en.wikipedia.org/wiki/Raymond_Sommer
 794,,,Joie,Chitwood,14-04-2012,American,http://en.wikipedia.org/wiki/Joie_Chitwood
 795,,,Myron,Fohr,17-06-2012,American,http://en.wikipedia.org/wiki/Myron_Fohr
@@ -805,27 +805,27 @@ driverId,number,code,forename,surname,dob,nationality,url
 803,,,Bill,Cantrell,31-01-2008,American,http://en.wikipedia.org/wiki/William_Cantrell
 804,,,Johnny,Mantz,18-09-2018,American,http://en.wikipedia.org/wiki/Johnny_Mantz
 805,,,Danny,Kladis,10-02-2017,American,http://en.wikipedia.org/wiki/Danny_Kladis
-806,,,��scar,Gonz��lez,10-11-2023,Uruguayan,http://en.wikipedia.org/wiki/Oscar_Gonz%C3%A1lez_(racing_driver)
-807,27,HUL,Nico,H�_lkenberg,19-08-1987,German,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg
+806,,,Óscar,González,10-11-2023,Uruguayan,http://en.wikipedia.org/wiki/Oscar_Gonz%C3%A1lez_(racing_driver)
+807,27,HUL,Nico,Hülkenberg,19-08-1987,German,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg
 808,,PET,Vitaly,Petrov,08-09-1984,Russian,http://en.wikipedia.org/wiki/Vitaly_Petrov
 810,,DIG,Lucas,di Grassi,11-08-1984,Brazilian,http://en.wikipedia.org/wiki/Lucas_di_Grassi
 811,,SEN,Bruno,Senna,15-10-1983,Brazilian,http://en.wikipedia.org/wiki/Bruno_Senna
 812,,CHA,Karun,Chandhok,19-01-1984,Indian,http://en.wikipedia.org/wiki/Karun_Chandhok
 813,13,MAL,Pastor,Maldonado,09-03-1985,Venezuelan,http://en.wikipedia.org/wiki/Pastor_Maldonado
 814,,DIR,Paul,di Resta,16-04-1986,British,http://en.wikipedia.org/wiki/Paul_di_Resta
-815,11,PER,Sergio,P̩rez,26-01-1990,Mexican,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez
-816,,DAM,J̩r̫me,d'Ambrosio,27-12-1985,Belgian,http://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_d%27Ambrosio
+815,11,PER,Sergio,Pérez,26-01-1990,Mexican,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez
+816,,DAM,Jérôme,d'Ambrosio,27-12-1985,Belgian,http://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_d%27Ambrosio
 817,3,RIC,Daniel,Ricciardo,01-07-1989,Australian,http://en.wikipedia.org/wiki/Daniel_Ricciardo
-818,25,VER,Jean-��ric,Vergne,25-04-1990,French,http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne
+818,25,VER,Jean-Éric,Vergne,25-04-1990,French,http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne
 819,,PIC,Charles,Pic,15-02-1990,French,http://en.wikipedia.org/wiki/Charles_Pic
 820,4,CHI,Max,Chilton,21-04-1991,British,http://en.wikipedia.org/wiki/Max_Chilton
-821,21,GUT,Esteban,Guti̩rrez,05-08-1991,Mexican,http://en.wikipedia.org/wiki/Esteban_Guti%C3%A9rrez
+821,21,GUT,Esteban,Gutiérrez,05-08-1991,Mexican,http://en.wikipedia.org/wiki/Esteban_Guti%C3%A9rrez
 822,77,BOT,Valtteri,Bottas,28-08-1989,Finnish,http://en.wikipedia.org/wiki/Valtteri_Bottas
 823,,VDG,Giedo,van der Garde,25-04-1985,Dutch,http://en.wikipedia.org/wiki/Giedo_van_der_Garde
 824,17,BIA,Jules,Bianchi,03-08-1989,French,http://en.wikipedia.org/wiki/Jules_Bianchi
 825,20,MAG,Kevin,Magnussen,05-10-1992,Danish,http://en.wikipedia.org/wiki/Kevin_Magnussen
 826,26,KVY,Daniil,Kvyat,26-04-1994,Russian,http://en.wikipedia.org/wiki/Daniil_Kvyat
-827,45,LOT,Andr̩,Lotterer,19-11-1981,German,http://en.wikipedia.org/wiki/Andr%C3%A9_Lotterer
+827,45,LOT,André,Lotterer,19-11-1981,German,http://en.wikipedia.org/wiki/Andr%C3%A9_Lotterer
 828,9,ERI,Marcus,Ericsson,02-09-1990,Swedish,http://en.wikipedia.org/wiki/Marcus_Ericsson
 829,28,STE,Will,Stevens,28-06-1991,British,http://en.wikipedia.org/wiki/Will_Stevens
 830,33,VER,Max,Verstappen,30-09-1997,Dutch,http://en.wikipedia.org/wiki/Max_Verstappen
