@@ -1,4 +1,13 @@
 year,url
+2018,https://en.wikipedia.org/wiki/2018_Formula_One_season
+2017,https://en.wikipedia.org/wiki/2017_Formula_One_season
+2016,https://en.wikipedia.org/wiki/2016_Formula_One_season
+2015,https://en.wikipedia.org/wiki/2015_Formula_One_season
+2014,https://en.wikipedia.org/wiki/2014_Formula_One_season
+2013,https://en.wikipedia.org/wiki/2013_Formula_One_season
+2012,https://en.wikipedia.org/wiki/2012_Formula_One_season
+2011,https://en.wikipedia.org/wiki/2011_Formula_One_season
+2010,https://en.wikipedia.org/wiki/2010_Formula_One_season
 2009,https://en.wikipedia.org/wiki/2009_Formula_One_season
 2008,https://en.wikipedia.org/wiki/2008_Formula_One_season
 2007,https://en.wikipedia.org/wiki/2007_Formula_One_season
@@ -19,7 +28,6 @@ year,url
 1992,https://en.wikipedia.org/wiki/1992_Formula_One_season
 1991,https://en.wikipedia.org/wiki/1991_Formula_One_season
 1990,https://en.wikipedia.org/wiki/1990_Formula_One_season
-2010,https://en.wikipedia.org/wiki/2010_Formula_One_season
 1989,https://en.wikipedia.org/wiki/1989_Formula_One_season
 1988,https://en.wikipedia.org/wiki/1988_Formula_One_season
 1987,https://en.wikipedia.org/wiki/1987_Formula_One_season
@@ -60,11 +68,3 @@ year,url
 1952,https://en.wikipedia.org/wiki/1952_Formula_One_season
 1951,https://en.wikipedia.org/wiki/1951_Formula_One_season
 1950,https://en.wikipedia.org/wiki/1950_Formula_One_season
-2011,https://en.wikipedia.org/wiki/2011_Formula_One_season
-2012,https://en.wikipedia.org/wiki/2012_Formula_One_season
-2013,https://en.wikipedia.org/wiki/2013_Formula_One_season
-2014,https://en.wikipedia.org/wiki/2014_Formula_One_season
-2015,https://en.wikipedia.org/wiki/2015_Formula_One_season
-2016,https://en.wikipedia.org/wiki/2016_Formula_One_season
-2017,https://en.wikipedia.org/wiki/2017_Formula_One_season
-2018,https://en.wikipedia.org/wiki/2018_Formula_One_season
