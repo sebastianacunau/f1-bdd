@@ -18,7 +18,7 @@ circuitId,circuitRef,name,location,country,lat,lng,alt,url
 17,shanghai,Shanghai International Circuit,Shanghai,China,31.3389,121.22,,http://en.wikipedia.org/wiki/Shanghai_International_Circuit
 18,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace
 19,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,,http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway
-20,nurburgring,NÌ_rburgring,NÌ_rburg,Germany,50.3356,6.9475,,http://en.wikipedia.org/wiki/N%C3%BCrburgring
+20,nurburgring,Nürburgring,Nürburg,Germany,50.3356,6.9475,,http://en.wikipedia.org/wiki/N%C3%BCrburgring
 21,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,,http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari
 22,suzuka,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,,http://en.wikipedia.org/wiki/Suzuka_Circuit
 23,osterreichring,A1-Ring,Spielburg,Austria,47.2197,14.7647,,http://en.wikipedia.org/wiki/A1-Ring
