@@ -23,7 +23,7 @@ circuitId,circuitRef,name,location,country,lat,lng,alt,url
 22,suzuka,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,,http://en.wikipedia.org/wiki/Suzuka_Circuit
 23,osterreichring,A1-Ring,Spielburg,Austria,47.2197,14.7647,,http://en.wikipedia.org/wiki/A1-Ring
 24,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,,http://en.wikipedia.org/wiki/Yas_Marina_Circuit
-25,galvez,AutÌ_dromo Juan y Oscar GÌÁlvez,Buenos Aires,Argentina,-34.6943,-58.4593,,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez
+25,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez
 26,jerez,Circuito de Jerez,Jerez de la Frontera,Spain,36.7083,-6.03417,,http://en.wikipedia.org/wiki/Circuito_Permanente_de_Jerez
 27,estoril,Autódromo do Estoril,Estoril,Portugal,38.7506,-9.39417,,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_do_Estoril
 28,okayama,Okayama International Circuit,Okayama,Japan,34.915,134.221,,http://en.wikipedia.org/wiki/TI_Circuit
@@ -34,7 +34,7 @@ circuitId,circuitRef,name,location,country,lat,lng,alt,url
 33,phoenix,Phoenix street circuit,Phoenix,USA,33.4479,-112.075,,http://en.wikipedia.org/wiki/Phoenix_street_circuit
 34,ricard,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167,,http://en.wikipedia.org/wiki/Paul_Ricard_Circuit
 35,yeongam,Korean International Circuit,Yeongam County,Korea,34.7333,126.417,,http://en.wikipedia.org/wiki/Korean_International_Circuit
-36,jacarepagua,AutÌ_dromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Internacional_Nelson_Piquet
+36,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Internacional_Nelson_Piquet
 37,detroit,Detroit Street Circuit,Detroit,USA,42.3298,-83.0401,,http://en.wikipedia.org/wiki/Detroit_street_circuit
 38,brands_hatch,Brands Hatch,Kent,UK,51.3569,0.263056,,http://en.wikipedia.org/wiki/Brands_Hatch
 39,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,,http://en.wikipedia.org/wiki/Circuit_Zandvoort
