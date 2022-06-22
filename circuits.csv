@@ -6,7 +6,7 @@ circuitId,circuitRef,name,location,country,lat,lng,url
 5,istanbul,Istanbul Park,Istanbul,Turkey,40.9517,29.405,http://en.wikipedia.org/wiki/Istanbul_Park
 6,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,http://en.wikipedia.org/wiki/Circuit_de_Monaco
 7,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,http://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve
-8,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,,http://en.wikipedia.org/wiki/Circuit_de_Nevers_Magny-Cours
+8,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,http://en.wikipedia.org/wiki/Circuit_de_Nevers_Magny-Cours
 9,silverstone,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,http://en.wikipedia.org/wiki/Silverstone_Circuit
 10,hockenheimring,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,http://en.wikipedia.org/wiki/Hockenheimring
 11,hungaroring,Hungaroring,Budapest,Hungary,47.5789,19.2486,http://en.wikipedia.org/wiki/Hungaroring
